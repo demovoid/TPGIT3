@@ -2,6 +2,7 @@
 #include <stdlib.h>
 int main ()
 {
-	printf("Hello Worldn I'm\n");
-	return 0;
+	/* afficher le mot bonjour et saut de ligne */
+	printf("Hello World , I'm Claudine\n");
+	return 2;
 }
