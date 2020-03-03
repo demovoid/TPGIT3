@@ -3,6 +3,6 @@
 int main ()
 {
 	/* afficher le mot bonjour et saut de ligne */
-	printf("Hello World , It's  (my name> 's new version\n");
+	printf("Hello World , I'm back !\n");
 	return 2;
 }
